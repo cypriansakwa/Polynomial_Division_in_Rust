@@ -51,5 +51,5 @@ This Rust program performs polynomial division. It divides two polynomials, repr
 ## Clone the repository:
 
    ```bash
-   git Polynomial_Division_in_Rust.git
+ git clone https://github.com/cypriansakwa/Polynomial_Division_in_Rust.git
    cd Polynomial_Division_in_Rust
